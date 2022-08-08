@@ -53,7 +53,7 @@ module.exports = function (eleventyConfig) {
     templateFormats: ["html", "njk", "11ty.js", "md"],
     dir: {
       input: "pages",
-      output: "docs",
+      output: "_site",
     },
   };
 };

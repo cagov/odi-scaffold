@@ -1,6 +1,6 @@
 # Site scaffold
 
-This is a blank scaffold for a new site built with the CA Design System. It contains standard sets of components most sites might use including headers, footers, page feedback at the bottom of every page.
+This is a blank scaffold for a new site built with the <a href="https://designsystem.webstandards.ca.gov/">California Design System</a>. It contains standard sets of components most sites might use including headers, footers, page feedback at the bottom of every page.
 
 ## Static site generation
 

@@ -18,7 +18,7 @@ Build and start a local server with a watch process that refreshes on local code
 npm run dev
 ```
 
-This same build process runs in a git action in the github repository and sends the built files to an AWS S3 bucket so that the site is hosted reliably at low cost.
+This same build process runs in a <a href="https://github.com/cagov/odi-scaffold/blob/main/.github/workflow/deploy_production_s3.yml">git action</a> in the github repository and sends the built files to an AWS S3 bucket so that the site is hosted reliably at low cost.
 
 The result of using the CA Design System components with a static site generator is a site with easy to manage content that delivers a fast loading, clean design to site visitors. When the site scaffold is audited using lighthouse from 
 
